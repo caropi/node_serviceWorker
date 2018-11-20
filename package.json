@@ -1,0 +1,25 @@
+{
+  "name": "03_node_serviceworker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caropi/node_serviceWorker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caropi/node_serviceWorker/issues"
+  },
+  "homepage": "https://github.com/caropi/node_serviceWorker#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "web-push": "^3.3.3"
+  }
+}
